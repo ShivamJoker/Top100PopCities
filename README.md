@@ -20,4 +20,4 @@ const cities = require('toppop-cities');
 ```
 
 ## Download JSON and import it
-(Click here to view)[https://raw.githubusercontent.com/ShivamJoker/Top100PopCities/master/topCities.json]
+[Click to view](https://raw.githubusercontent.com/ShivamJoker/Top100PopCities/master/topCities.json)
