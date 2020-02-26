@@ -1,6 +1,6 @@
 {
   "name": "toppop-cities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Top 100 populated cities in the world with their cordinates",
   "main": "index.js",
   "scripts": {
