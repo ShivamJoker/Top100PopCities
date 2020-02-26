@@ -1,0 +1,28 @@
+{
+  "name": "toppop-cities",
+  "version": "1.0.0",
+  "description": "Top 100 populated cities in the world with their cordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamJoker/Top100PopCities.git"
+  },
+  "keywords": [
+    "top 100",
+    "world cities",
+    "populated",
+    "city",
+    "data",
+    "geo data",
+    "world population"
+  ],
+  "author": "Shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamJoker/Top100PopCities/issues"
+  },
+  "homepage": "https://github.com/ShivamJoker/Top100PopCities#readme"
+}
